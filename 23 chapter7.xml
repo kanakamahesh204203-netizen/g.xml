@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part PUBLIC "-//DTD CUP-BITS Book Interchange DTD v1.2//EN" "https://dtd.cambridge.org/schemas/2021/09/CUP-BITS-book1.dtd"[]>
+
+<chapter number="7" title="Service">
+<label><target target-type = "page" id = "page-100">100</target></label>
+    <editor>
+        <name>Leyland F. Pitt</name>
+        <affiliation>Simon Fraser University, Canada</affiliation>
+    </editor>
+
+    <section number="7.1" title="Introduction">
+        <paragraph>
+            In many advanced economies, services now account for a greater proportion of gross national product than manufactured goods...
+        </paragraph>
+        <paragraph>
+            The Web offers marketers the ability to make available full-color virtual catalogues, provide on-screen order forms, offer on-line customer support...
+        </paragraph>
+    </section>
+
+    <section number="7.2" title="What makes services different?">
+        <paragraph>
+            What makes services different from products? Services possess four distinct features not held by products...
+        </paragraph>
+
+        <characteristics>
+            <characteristic name="Intangibility">
+                Services are intangible or impalpable; they cannot be seen, held, or touched. They are performances or experiences.
+            </characteristic>
+
+            <characteristic name="Simultaneity">
+                Production and consumption occur at the same time. The producer and consumer must both be present.
+            </characteristic>
+
+            <characteristic name="Heterogeneity">
+                Services vary in output and quality, and mistakes happen in real time.
+            </characteristic>
+
+            <characteristic name="Perishability">
+                Services cannot be inventoried. Unsold services are lost forever.
+            </characteristic>
+        </characteristics>
+    </section>
+
+    <section number="7.3" title="Cyberservice">
+        <paragraph>
+            Cyberservice overcomes many traditional problems of services marketing by giving marketers control over service delivery...
+        </paragraph>
+
+        <subsection number="7.3.1" title="Managing intangibility">
+            
+            <subsection number="7.3.1.1" title="Use the Web to provide evidence">
+                <paragraph>
+                    Customers need evidence of what they will receive. Web services provide tangible proof such as email confirmations and membership details.
+                </paragraph>
+                <example>
+                    <organization>Royal Automobile Club (RAC)</organization>
+                    <description>
+                        Allows users to enroll online and provides confirmation emails as proof of membership.
+                    </description>
+                </example>
+
+                <example>
+                    <company>Motor Company</company>
+                    <description>
+                        Uses video cameras to show live service progress to customers.
+                    </description>
+                </example>
+            </subsection>
+
+            <subsection number="7.3.1.2" title="Use the Web site to tangibilize the intangible">
+                <paragraph>
+                    Effective websites provide cues such as text, graphics, video, and sound to help customers evaluate services.
+                </paragraph>
+
+                <keyElements>
+                    <element name="Quality of Website">
+                        Must include quality text, graphics, video, and sound.
+                    </element>
+                    <element name="Frequency of Update">
+                        Sites should be frequently updated to remain relevant.
+                    </element>
+                    <element name="Server Speed">
+                        Fast response time is essential for good service experience.
+                    </element>
+                </keyElements>
+            </subsection>
+
+        </subsection>
+    </section>
+	
+	<document>
+	<label><target target-type = "page" id = "page-103">103</target></label>
+	
+  <section id="7.3.1.3">
+    <title>Sampling in cyberspace</title>
+    <paragraph>
+      It is very difficult to sample a service. The best way to convince someone to purchase wine is to have them try a sample glass. If they like it, they may buy a case, or at least a bottle. Wine estates and fine wine stores realize this and use tastings as a major element of promotional strategy. Similarly, car dealers arrange demonstration drives, and bookstores have their wares on display for customers to browse through before making a choice. Sampling is far more difficult with services, because they are intangible. The Web has the potential to change all this.
+    </paragraph>
+    <paragraph>
+      Each year, Harvard Business School Publishing Services (HBSP) generates many millions of dollars worth of business selling case studies, multimedia programs, books, and of course, the famous Harvard Business Review. Previously, an instructor anywhere in the world wishing to examine a Harvard case study had to order a sample copy either by telephone, fax, or in writing, and then wait some days for the item to arrive, after having been physically dispatched by HBSP. Nowadays, approved instructors from all over the world browse the site, using powerful search facilities to find cases and other materials in which they are interested. When something relevant is found, the instructor downloads it in Adobe Acrobat format and prints it, complete with a watermark indicating that the case is a sample, not for further reproduction. The instructor can then decide whether to order the item. Similarly, the Web site also allows surfers to enroll for regular electronic updates on abstracts of new cases, articles, books, and other products that may be of interest. As well, visitors can subscribe to receive bimonthly the abstracts of articles in the latest Harvard Business Review.
+    </paragraph>
+  </section>
+
+  <section id="7.3.1.4">
+    <title>Multiplying memories</title>
+    <paragraph>
+      Because services are intangible, the customer frequently relies on the testimony of others (word of mouth) to a greater extent than in the case of products. Whereas in the case of a product, the customer actually has something to show for it, with services there is usually just a memory.
+    </paragraph>
+    <paragraph>
+      Vivid Travel Network is a collection of Web sites based in San Francisco that links and integrates travel information resources from all over the world. The key feature of the service, in this context, is that it brings together people with experiences of different travel locations with people interested in visiting those locations. Those who have visited a location relive their vacation by writing about it, engaging in discussion and recollection with others who have also been there. At the same time, they provide valuable and highly credible word of mouth information to prospective visitors by allowing vast networks to multiply memories.
+    </paragraph>
+  </section>
+
+  <section id="7.3.2">
+    <title>Managing simultaneity</title>
+    <paragraph>
+      Some of the features of simultaneity that the Web allows services marketers to manage include:
+    </paragraph>
+  </section>
+
+  <section id="7.3.2.1">
+    <title>Customization</title>
+    <paragraph>
+      Because services are produced and consumed simultaneously, there is a possibility that the provider can customize the service. If this is done well, it can lead to giving the customer what he or she wants to a far greater extent than is the case with most products. The Web has the ability to excel at this, and because its capacity is based on information technology, data storage, and data processing, rather than employees and physical location, it can do it on a scale that traditional service providers would find impossible to match. Pointcast offers an individually customized news retrieval service. The customer selects categories of personal interest, such as news, sport, stock quotes, and weather. The service then scans news providers, and compiles a customized offering for each person, which is updated regularly either by the individual requesting additional items, or by the software learning what the individual likes and prefers, and searching for information that will satisfy these needs. Thus, no two individuals receive the same service from Pointcast.
+    </paragraph>
+  </section>
+
+  <section id="7.3.2.2">
+    <title>Managing the customer as a part-time employee</title>
+    <paragraph>
+      In order to obtain services, the customer generally has to come inside the factory. Thus, in most conventional service situations, clients enter banks, vacationers go inside travel agencies, and university students attend classes in classrooms. Furthermore, once inside the service factory, the customer actually has to do a bit of work. Indeed, in the case of some services, a substantial amount of work. Not only does the customer come inside a service factory, and do some work, in many cases the quality of the service the customer receives is almost as dependent on the customer as it is on the efforts of the service provider. The customer can therefore be seen as a co-producer in service firms, and is, in a substantial sense, a part-time employee. In most service settings, this can be an opportunity to save costs and spark innovation.
+    </paragraph>
+    <paragraph>
+      The Web site of a well-known international service company illustrates how the medium can be used to manage profitably customers as part-time employees. The international courier company UPS allows customers access to its system through its Web site. The site reduces uncertainty by allowing customers to track shipments traveling through the system by entering the package receipt number. Furthermore, customers can request a pickup and find the nearest drop-off site. UPS still uses a large team of service agents and a major telephone switchboard to deal with customer inquiries. Now, however, millions of tracking requests are handled on-line each month. Many would have used the more expensive and time-consuming telephone system. Clearly, UPS gains considerable savings by switching customers from telephone to Web parcel tracking. Furthermore, customers prefer this form of service delivery, otherwise, they would not have adopted it with such alacrity.
+    </paragraph>
+  </section>
+
+  <section id="7.3.2.3">
+    <title>Innovation as part of customer participation</title>
+    <paragraph>
+      If we understand that, in service settings, the customer is a necessary co-producer and participant in the service creation process, then we can become aware of many possible service innovations that can create advantage in competitive markets. If the customer is willing to do some work, we can create enjoyable environments for them to do it in, and we can also devise service efficiencies that lead to significant cost reductions.
+    </paragraph>
+    <paragraph>
+      Firefly is an example of using the customer's willingness to participate in the service production process to create service innovations on the Web. The Firefly network creates virtual communities of customers by getting them not only to give a lot of information about themselves, but also to do a lot of the work required to create the virtual community. Customers give information about their preferences regarding books, music, or films. Firefly then builds a profile of the customer's likes, which is continually updated as the customer keeps on providing more information—usually in the form of ratings on scales. Customers are also put in touch with others who have similar interests to their own. This information is then correlated with other customers’ interests and enjoyment profiles to recommend new music, books, or films. Customers also give their opinions of the films, music, or books that they have seen, and this is then fed back to other customers. This information is not only very valuable to the customer, but a major asset to the company itself, which it can sell to film producers, record companies, or book sellers. Customer are thus not only co-creators of their own service and enjoyment, they also produce on behalf of Firefly a very valuable and saleable information asset.
+    </paragraph>
+  </section>
+
+  <section id="7.3.2.4">
+    <title>Service industrialization</title>
+    <paragraph>
+      While service firms have to put up with the fact that the customer comes inside the factory, this is not always strictly true. It might be more appropriate to say that a fundamental dilemma facing services marketers is to decide on the extent to which they want the customer to come inside the factory.
+    </paragraph>
+    <paragraph>
+      It has been argued that service firms would be more successful if they provided less service, not more! They should industrialize themselves, and become more like mass producers of goods than benevolent panderers to the whims of individuals.
+    </paragraph>
+  </section>
+</document>
+
+<document>
+<label><target target-type = "page" id = "page-107">107</target></label>
+
+  
+        <paragraph>
+            An advantage of cyberservice is that customers can be led precisely through a process repeatedly. 
+            For example, when buying books from Amazon.com, customers is stepped through the process of selecting books 
+            and providing payment and shipping details. No steps can be missed and the system checks the validity of entered 
+            information. Furthermore, customers don’t type in book titles (a possible customer error); these are selected 
+            by clicking. Many Web sites require customers or prospects to enter their e-mail address twice because of the 
+            observed high customer data entry error rate. Of course, wherever possible, pull-down selection lists should be 
+            used so that customers have less opportunity to make errors.
+        </paragraph>
+
+        <heading>Encounter resolution</heading>
+        <paragraph>
+            On-line catalog companies, such as REI, e-mail customers a copy of their order so customers can correct any 
+            errors they may have made when entering delivery and order details.
+        </paragraph>
+
+        <section>
+            <title>7.3.3 Managing heterogeneity</title>
+            <note>Available under Creative Commons-ShareAlike 4.0 International License</note>
+            <paragraph>
+                Once more, there are a few things that the services marketer can manage on the Web in order to overcome 
+                the problems occasioned by service heterogeneity. Indeed, the Web offers unique opportunities in this regard.
+            </paragraph>
+        </section>
+
+        <section>
+            <title>7.3.3.1 Service standardization on the Web site</title>
+            <note>Available under Creative Commons-ShareAlike 4.0 International License</note>
+            <paragraph>
+                Some services marketers are reluctant to standardize service activities because they feel that this tends 
+                to mechanize and dehumanize an interaction between individuals. In some circumstances this is true, but that 
+                doesn’t mean that managers shouldn’t look for opportunities to produce service activities in as predictable 
+                and uniform a way as possible. Many people are cynical about the sincerity of the greeting, thanks, and 
+                farewell that one receives in a McDonald’s restaurant. However, by standardizing something as simple as this, 
+                the company has ensured that everyone is greeted, thanked, and bid farewell, in a setting where real warmth 
+                and friendliness don’t matter all that much anyway.
+            </paragraph>
+            <paragraph>
+                McDonald’s has succeeded in eliminating much of the unpredictability that customers still face in so many 
+                other restaurant settings, such as surliness or complete indifference, or alternatively service which is 
+                gushingly insincere. The real skills of services marketers become apparent in their ability to decide what 
+                should be standardized, and what should not.
+            </paragraph>
+            <paragraph>
+                Security First Network Bank (SFNB), which was one of the first financial services institutions to offer 
+                full-service banking on the Internet, uses a graphic metaphor—a color picture of the lobby of a traditional 
+                bank—to communicate and interact with potential and existing customers. Whereas in a real bank the customer 
+                might encounter great or indifferent service, warmth or rudeness, competence or incompetence, depending on 
+                the individual who serves them, in SFNB, the service is relevant and highly consistent.
+            </paragraph>
+        </section>
+    
+
+   
+        <section>
+            <title>7.3.3.2 Electronic eavesdropping on customers’ conversations</title>
+            <note>Available under Creative Commons-ShareAlike 4.0 International License</note>
+            <paragraph>
+                Firms must listen to different consumer groups to ensure that they are hearing what customers are saying 
+                and how they are perceived as responding to their complaints, concerns, and ideas. They need to listen to 
+                three types of customers: external customers, competitors’ customers, and internal customers (employees).
+            </paragraph>
+            <paragraph>
+                Everyday on the Internet, customers are talking about products. Newsgroups and listservs provide forums for 
+                consumers throughout the world, to pass comment on a company’s products and services. Furthermore, bad news 
+                travels at megabits per second to millions of customers, as Intel found when the flawed Pentium chip was 
+                detected. Companies can eavesdrop on these conversations and respond when appropriate.
+            </paragraph>
+            <paragraph>
+                In addition, they can collect and analyze customers’ words to learn more about their customers and those of 
+                their competitors. Internally, an organization can set up electronic bulletin boards to foster communication 
+                from internal customers.
+            </paragraph>
+            <paragraph>
+                Traditional focus groups meet same time and same place. Our early work with electronic focus groups indicates 
+                that chains of time and space can be easily snapped. We have successfully operated electronic focus groups 
+                spanning seven time zones and three countries.
+            </paragraph>
+            <paragraph>
+                Cyberservice means listening to more customers more intently and reacting electronically in real-time. It 
+                also means everyone in the organization can listen to customers. Key insights can be broadcast on internal 
+                bulletin boards so that everyone understands what the customer truly wants. There has never been a better 
+                opportunity to get closer to customers and stay focused on their needs.
+            </paragraph>
+        </section>
+
+        <section>
+            <title>7.3.3.3 Service quality</title>
+            <note>Available under Creative Commons-ShareAlike 4.0 International License</note>
+            <paragraph>
+                Whereas good quality can be controlled into, and bad quality out of, the production process for goods, in 
+                the case of services this is made much more difficult by heterogeneity. Thus, service quality needs to be 
+                carefully managed. In order for it to be managed, of course, it needs to be measured. If you can’t measure 
+                something, you can’t manage it. In the last ten years, tremendous progress has been made in the measurement 
+                of service quality.
+            </paragraph>
+            <paragraph>
+                Interactive, Web-based questionnaires are a convenient and inexpensive way of collecting customers’ 
+                perceptions of service quality or some other aspect of a service. Computing and IT services at the 
+                University of Michigan has an on-line survey for its customers to complete.
+            </paragraph>
+        </section>
+   
+</document>
+
+<document>
+<label><target target-type = "page" id = "page-109">109</target></label>
+>
+    <section id="7.3.4">
+        <title>Managing perishability</title>
+        <content>
+            Because products are produced before they are consumed, many can be stored until needed.
+            Services cannot, for they are produced and consumed simultaneously. This gives them the
+            characteristic of perishability. Services cannot be inventoried. To understand and minimize
+            the effects of service perishability, astute services marketers use Web sites to manage
+            supply and demand.
+        </content>
+    </section>
+
+    <section id="7.3.4.1">
+        <title>Managing supply on the Web site</title>
+        <content>
+            Managing supply in a conventional service setting requires controlling all factors of service
+            production affecting customer ability to acquire and use the service. This includes opening
+            and closing hours, staffing, and customer limits.
+
+            On the Web, these issues are minimized as services can be offered 24/7. For example, British
+            Airways allows customers to purchase tickets anytime without location constraints. It also
+            offers Executive Club services and customer support.
+        </content>
+    </section>
+
+    <section id="7.3.4.2">
+        <title>Directing demand on the Web site</title>
+        <content>
+            Services marketers manage demand through pricing, promotions, and bundling. Since services
+            have high fixed costs, even discounted sales are preferable to unused capacity.
+
+            Airlines use online auctions and pricing strategies to fill seats, often reaching near full
+            capacity. This increases profitability without significantly increasing total costs.
+
+            Service bundling is also used. For example, Expedia allows customers to combine flights,
+            hotels, and car rentals into personalized travel packages.
+        </content>
+    </section>
+
+    <section id="7.4">
+        <title>Conclusion</title>
+        <content>
+            Services possess characteristics such as intangibility, simultaneity, heterogeneity, and
+            perishability. Cyberservice helps overcome these challenges.
+
+            The Web enables quantization (breaking services into elements), search (efficient matching of
+            supply and demand), and automation (removal of bottlenecks), improving efficiency and
+            customer experience.
+        </content>
+    </section>
+
+    <section id="7.5">
+        <title>Cases</title>
+        <case>
+            Charlet, J.-C., and E. Brynjolfsson. 1998. BroadVision. Stanford University.
+        </case>
+        <case>
+            Huff, S. 1998. Scantran. University of Western Ontario.
+        </case>
+        <case>
+            Charlet, J.-C., and E. Brynjolfsson. 1998. Firefly Network (A). Stanford University.
+        </case>
+    </section>
+
+    <section id="7.6">
+        <title>References</title>
+        <reference>
+            Berry, L. L., and A. Parasuraman. 1997. Listening to the customer. Sloan Management Review.
+        </reference>
+        <reference>
+            Chase, R. B., and D. M. Stewart. 1994. Make your service fail-safe. Sloan Management Review.
+        </reference>
+        <reference>
+            Levitt, T. 1976. The industrialization of service. Harvard Business Review.
+        </reference>
+        <reference>
+            Zeithaml, V. A., Parasuraman, and L. L. Berry. 1990. Delivering quality service. Free Press.
+        </reference>
+    </section>
+</document>
+
+</chapter>
